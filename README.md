@@ -122,7 +122,7 @@ The reasoning for each of the preprocessing steps has also been provided whereve
 
 **T2. Identify and list classification problems on your assigned dataset. Which one does seem the most interesting to you and why?**
 
-We have identified two regression problems on our Diamond Dataset:
+We have identified five classification problems on our Smoking and Drinking Dataset:
 
 1.	Predicting if a person is a drinker/non-drinker.
 2.	Predicting if a person is a smoker/quiter/non-smoker.
